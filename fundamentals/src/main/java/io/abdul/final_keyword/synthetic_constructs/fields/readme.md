@@ -1,0 +1,1 @@
+When compiled, any inner class will contain a synthetic field which references the top level class. Coincidentally, this is what makes possible to access the enclosing class members from a nested class.
